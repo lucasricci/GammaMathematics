@@ -1,6 +1,6 @@
 # Gamma Mathematics
 
-This repository contains the source code utilized in the videos published in [**Gamma Mathematics**](https://www.youtube.com/channel/UCUhtTAuCuMoL0W7E2loIy_A). I made write this code using [**Manim Community Edition**](https://github.com/ManimCommunity/manim), that is based in Grant Sanderson (AKA 3b1b) Manim version, which can be found here, [**Manim 3b1b**](https://github.com/3b1b/manim).
+This repository contains the source code utilized in the videos published in [**Gamma Mathematics**](https://www.youtube.com/channel/UCUhtTAuCuMoL0W7E2loIy_A). I write this code using [**Manim Community Edition**](https://github.com/ManimCommunity/manim), that is based in Grant Sanderson (AKA 3b1b) Manim version, which can be found here, [**Manim 3b1b**](https://github.com/3b1b/manim).
 
 ## About the Channel
 
